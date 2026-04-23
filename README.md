@@ -1,33 +1,98 @@
-# 💫 About Me:
-Hey, I'm Mathkasa.<br><br>Cybersecurity student.  <br>I build Discord bots in JavaScript and websites in HTML.  <br><br>Interested in OSINT, tech and understanding how things work.<br><br>Learning every day.
+# 👋 Hello, I'm **Mathkasa**
 
+<p align="center">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/1376961618130505738) 
+<img src="https://komarev.com/ghpvc/?username=Mathkasa&label=Profile%20views&color=00FF41&style=for-the-badge"/>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Mathkasa&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Mathkasa&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mathkasa&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Cybersecurity-Student-00FF41?style=for-the-badge">
+<img src="https://img.shields.io/badge/OSINT-Enthusiast-00FF41?style=for-the-badge">
+<img src="https://img.shields.io/badge/JavaScript%20%26%20HTML-Developer-00FF41?style=for-the-badge">
+
+</p>
+
+<p align="center">
+
+Cybersecurity Student • OSINT Enthusiast • JavaScript & Web Developer
+
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Mathkasa&icon=6&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
 
-<!--
-**Mathkasa/Mathkasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about **cybersecurity, OSINT (Open Source Intelligence), and web development**.
 
-Here are some ideas to get you started:
+I enjoy building **Discord bots, websites, and small automation tools** while learning how systems work behind the scenes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main interests include:
+
+• OSINT  
+• JavaScript development  
+• Web development (HTML)  
+• Automation  
+• Cybersecurity fundamentals  
+• Technology in general  
+
+---
+
+# 🔥 Featured Projects
+
+Coming soon...
+
+---
+
+# 🛠 Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=javascript,nodejs,html,git,github,vscode"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mathkasa&show_icons=true&theme=chartreuse-dark"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathkasa&layout=compact&theme=chartreuse-dark"/>
+
+</p>
+
+---
+
+# 🎯 Goals
+
+• Improve my cybersecurity skills  
+• Build useful Discord bots  
+• Learn more about OSINT  
+• Create better and bigger projects  
+• Keep improving every day  
+
+---
+
+# ⚠ Disclaimer
+
+All my projects are made for **learning purposes and ethical use only**.
+
+---
+
+<p align="center">
+
+⭐ If you like my profile, feel free to follow.
+
+</p>
